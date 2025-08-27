@@ -1,5 +1,5 @@
 # Hi, I'm Patiphan👋
-I am longlife learning how love mathematics and coding
+I am a lifelong learner with a love for mathematics and coding.
 <a href="https://me-v2-orpin.vercel.app/" target="_blank">More About me</a>
 
 ## 🖥 Programming & Tools
