@@ -1,5 +1,8 @@
-# Hi, I'm Patiphan👋
-I am a lifelong learner with a love for mathematics and coding.
+# Hi, I'm Patiphan 👋
+
+I am a lifelong learner with a passion for mathematics and coding. I focus on fundamental concepts in **Discrete Mathematics**, including Number Theory and Set Theory, to strengthen my foundation in **Mathematical Analysis**. My studies particularly emphasize sequences and subsequences, formal definitions of continuity and limits, and principles of real analysis and geometry.
+
+My goal is to build a solid theoretical foundation that enhances my problem-solving abilities in both pure mathematics and applied computational fields.
 <a href="https://me-v2-orpin.vercel.app/" target="_blank">More About me</a>
 
 ## 🖥 Programming & Tools
