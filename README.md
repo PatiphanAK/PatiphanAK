@@ -8,9 +8,10 @@ I am a lifelong learner with a love for mathematics and coding.
 
 ### Backend
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00BFFF?style=for-the-badge&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00BFFF?style=for-the-badge&logo=go&logoColor=white)
+
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
