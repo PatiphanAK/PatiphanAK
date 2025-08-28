@@ -7,8 +7,8 @@ I am a lifelong learner with a love for mathematics and coding.
 [![Programming Languages](https://skillicons.dev/icons?i=go,python,rust,c,cpp,haskell,bash,js,ts&perline=9)](https://skillicons.dev)
 
 ### Backend
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00BFFF?style=for-the-badge&logo=go&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
