@@ -1,6 +1,7 @@
 # Hi, I'm Patiphan 👋
 <div align="center">
     <img src="TH_1.jpg" alt="Me" width="250"/>
+    <img src="Otaku.jpg" alt="Me2" width="250"/>
 </div>
 
 
