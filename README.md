@@ -1,9 +1,16 @@
 # Hi, I'm Patiphan 👋
+<div>
+    <img src="./TH_1.jpg" alt="Me" width="250"/>
+</div>
+# Hi, I'm Patiphan 👋
+
+<img src="TH_1.jpg" alt="Me" width="250" height="250"/>
 
 I am a lifelong learner with a passion for mathematics and coding. I focus on fundamental concepts in **Discrete Mathematics**, including Number Theory and Set Theory, to strengthen my foundation in **Mathematical Analysis**. My studies particularly emphasize sequences and subsequences, formal definitions of continuity and limits, and principles of real analysis and geometry.
 
 My goal is to build a solid theoretical foundation that enhances my problem-solving abilities in both pure mathematics and applied computational fields.
-<a href="https://me-v2-orpin.vercel.app/" target="_blank">More About me</a>
+
+[More About me](https://me-v2-orpin.vercel.app/)
 
 ## 🖥 Programming & Tools
 ### Languages
