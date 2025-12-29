@@ -9,6 +9,7 @@ I am a lifelong learner with a passion for mathematics and coding. I focus on fu
 
 My goal is to build a solid theoretical foundation that enhances my problem-solving abilities in both pure mathematics and applied computational fields.
 <a href="https://me-v2-orpin.vercel.app/" target="_blank">More About me</a>
+Looking to collaborate with those who are interested in a similar study area or any further beneficial study.
 
 ## 🖥 Programming & Tools
 ### Languages
@@ -53,6 +54,7 @@ My goal is to build a solid theoretical foundation that enhances my problem-solv
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+
 
 
 
