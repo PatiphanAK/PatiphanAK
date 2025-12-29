@@ -12,7 +12,7 @@ My goal is to build a solid theoretical foundation that enhances my problem-solv
 
 ## 🖥 Programming & Tools
 ### Languages
-[![Programming Languages](https://skillicons.dev/icons?i=go,python,rust,c,cpp,haskell,bash,js,ts&perline=9)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=go,python,rust,c,cpp,scala,haskell,bash,js,ts&perline=9)](https://skillicons.dev)
 
 ### Backend
 ![Fiber](https://img.shields.io/badge/Fiber-00BFFF?style=for-the-badge&logo=go&logoColor=white)
@@ -53,6 +53,7 @@ My goal is to build a solid theoretical foundation that enhances my problem-solv
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+
 
 
 
