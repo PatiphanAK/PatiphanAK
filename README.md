@@ -3,7 +3,9 @@
 🌐 Portfolio: https://me-v2-orpin.vercel.app 
 
 ### Interests
-- Machine Learning (Optimization, Probabilistic Modeling, Pattern Recognition)
-- Distributed Systems & High Availability (Data Ingestion, Multi-Cluster Computing)
+- Computer Vision (Geometric Vision, Surface Inspection, Non-Euclidean Space Vision )
 - Cloud-Native Systems
-- Computer Vision (Geometric Vision, Surface Inspection, 3D Curves)
+- Computational Intelligence (Swarm Intelligence, Fuzzy System)
+- Distributed Systems & High Availability (Data Ingestion, Multi-Cluster Computing)
+
+
