@@ -6,5 +6,5 @@
 
 ### Programming Skills & Technology Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,java,scala,groovy,haskell,cs,bash" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,c,cpp,java,scala,haskell,cs,bash" alt="My Skills" />
 </p>
