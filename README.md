@@ -1,13 +1,14 @@
 # Hi, I'm Patiphan 👋
 
-More about me : https://me-v2-orpin.vercel.app/
+More about me: https://me-v2-orpin.vercel.app/
 
-### Interests
+## Interests
 - Computer Vision (Geometric Vision, Geometric Deep Learning, 3D Vision)
-- Cloud-Native & Distributed Systems (Data Platforms, Scalable AI Infrastructure, High Availability)
-- Computational Intelligence (Swarm Intelligence, Fuzzy Systems)
+- Mathematical AI (Optimization, Swarm Intelligence, Fuzzy Systems)
+- Cloud-Native AI Systems (Distributed Systems, Data Platforms, Scalable AI Infrastructure)
 
-### Programming Skills & Technology Stack
+## Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,rust,c,cpp,java,scala,haskell,cs" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,java,scalaมc,rust,cpp,cs,haskell" alt="Tech Stack" />
 </p>
