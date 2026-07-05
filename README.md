@@ -3,9 +3,9 @@
 More about me: https://me-v2-orpin.vercel.app/
 
 ## Interests
-- Computer Vision (Geometric Vision, Geometric Deep Learning, 3D Vision)
-- Mathematical AI (Optimization, Swarm Intelligence, Fuzzy Systems)
-- Cloud-Native AI Systems (Distributed Systems, Data Platforms, Scalable AI Infrastructure)
+- Computer Vision (Machine Vision, Wavelet-based Image Processing, Geometric Deep Learning)
+- Computational Intelligence (Swarm Intelligence, Fuzzy Systems)
+- Cloud-Native Systems (Distributed Systems, Data Platforms, Scalable AI Infrastructure)
 
 ## Tech Stack
 
