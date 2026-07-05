@@ -10,5 +10,5 @@ More about me: https://me-v2-orpin.vercel.app/
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,bash,java,scala,c,rust,cpp,cs,haskell" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,java,scala,rust,c,cpp,haskell,cs" alt="Tech Stack" />
 </p>
