@@ -10,11 +10,10 @@ More about me: https://me-v2-orpin.vercel.app/
 
 ## Areas of Interest
 
-* **Computer Vision & Image Processing** — Machine Vision, Wavelet-based Image Processing, Geometric Deep Learning
-* **Computational Intelligence** — Swarm Intelligence, Fuzzy Systems, Multi-objective Optimization
-* **MLOps & AI Infrastructure** — GPU Orchestration, Kubernetes, Distributed Inference, AI/ML Compute Platforms
-* **Cloud-Native & Distributed Systems** — Distributed Systems, Data & AI Platforms, Scalable Infrastructure
-* **DevEx & Platform Engineering** — Product Thinking, User-Centered Design, Internal Developer Platforms, Self-Service Engineering Workflows
+* Computer Vision & Image Processing — Machine Vision, Wavelet-based Image Processing, Geometric Deep Learning
+* Computational Intelligence — Swarm Intelligence, Fuzzy Systems, Multi-objective Optimization
+* MLOps & Cloud-Native Infrastructure — GPU Orchestration, Kubernetes, Distributed System (eg. Distributed Inference, DAG workflow), Scalable AI/ML Compute Platforms
+* Platform Engineering & IDPs — Internal Developer Platforms, Developer Portals, Golden Paths, CNCF tooling (Argo CD, Flux CD)
 
 ## Programming
 
