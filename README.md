@@ -4,12 +4,6 @@ More about me: https://me-v2-orpin.vercel.app/
 
 ## Areas of Interest
 
-# Hi, I'm Patiphan
-
-More about me: https://me-v2-orpin.vercel.app/
-
-## Areas of Interest
-
 * Computer Vision & Image Processing — Machine Vision, Wavelet-based Image Processing, Geometric Deep Learning
 * Computational Intelligence — Swarm Intelligence, Fuzzy Systems, Multi-objective Optimization
 * MLOps & Cloud-Native Infrastructure —  Version Control, GPU Orchestration, Kubernetes, Distributed System (eg. Distributed Inference, DAG workflow), Scalable AI/ML Compute Platforms,
